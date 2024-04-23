@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Game Website</title>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+    <link rel="stylesheet" href="styles1.css">
+</head>
+<body>
+    <header class="bg-dark text-white py-4">
+        <div class="container">
+            <h1 class="mb-0">Game Website</h1>
+        </div>
+    </header>
+    
+    <nav class="bg-secondary py-2">
+        <div class="container">
+            <ul class="nav justify-content-center">
+                <li class="nav-item"><a class="nav-link text-white" href="#">Home</a></li>
+                <li class="nav-item"><a class="nav-link text-white" href="#">About</a></li>
+                <li class="nav-item"><a class="nav-link text-white" href="#">Games</a></li>
+                <li class="nav-item"><a class="nav-link text-white" href="#">Contact</a></li>
+            </ul>
+        </div>
+    </nav>
+
+    <div class="container my-5">
+        <div class="row">
+            <div class="col-12">
+                <h1 class="text-center">Welcome to our Game Website!</h1>
+                <p class="text-center">Jelajahi koleksi game menarik kami.</p>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-md-3 col-sm-6">
+                <img src="gta.jpg" alt="gambar1" class="img-fluid rounded">
+            </div>
+            <img src="good of war.jpg" alt="gambar2">
+        <img src="basara.jpg" alt="gambar3">
+        <img src="bola .jpg" alt="gambar4">
+        <img src="def jum fight.jpg" alt="gambar5">
+        <img src="taken.jpg" alt="gambar6">
+        <img src="downhil.jpg" alt="gambar7">
+        <img src="residen evil.jpg" alt="gambar8">
+        </div>
+    </div>
+    
+    <div class="container">
+        <p class="text-center">Terlalu banyak bermain game dapat menyebabkan gaya hidup yang tidak aktif. Banyak waktu yang dihabiskan di depan layar komputer atau konsol game dapat mengakibatkan kurangnya aktivitas fisik, yang dapat meningkatkan risiko obesitas, masalah postur tubuh, dan masalah kesehatan lainnya.</p>
+    </div>
+
+    <footer class="bg-dark text-white py-3 fixed-bottom">
+        <div class="container">
+            <p class="mb-0" style="text-align: center;">&copy; Andrian Roby Maulana</p>
+        </div>
+    </footer>
+
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.16.0/umd/popper.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
+</body>
+</html>
+
